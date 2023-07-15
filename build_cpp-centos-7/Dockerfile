@@ -5,4 +5,5 @@ RUN yum update -y && \
         automake \
         gcc-c++ \
         git \
-        make
+        make \
+        vim
